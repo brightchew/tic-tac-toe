@@ -1,3 +1,24 @@
-h1 {
-  color: purple;
+
+.container {
+
+	width: 400px;
+	height: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+
 }
+
+.row {
+	
+}
+
+.col { 
+	display: inline-block;
+	margin: 10px;
+	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+
+ }
